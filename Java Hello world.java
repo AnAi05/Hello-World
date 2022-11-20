@@ -3,4 +3,3 @@ public class Hello {
     System.out.print("Hello World");
   }
 }
-© 2021 GitHub, Inc.
